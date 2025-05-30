@@ -199,7 +199,7 @@
             <h2 class="text-4xl font-bold mb-12 section-heading mx-auto">About Me</h2>
             <div class="flex flex-col md:flex-row items-center md:space-x-8">
                 <div class="md:w-1/3 mb-8 md:mb-0">
-                    <img src="https://placehold.co/300x300/6366f1/ffffff?text=RAYHAN+KABIR" alt="RAYHAN KABIR Photo" class="rounded-full mx-auto shadow-lg w-48 h-48 object-cover">
+                    <img src="RKA.jpeg" alt="RAYHAN KABIR Professional Headshot" class="rounded-full mx-auto shadow-lg w-48 h-48 object-cover">
                 </div>
                 <div class="md:w-2/3 text-left">
                     <p class="text-lg text-gray-700 leading-relaxed mb-4">
